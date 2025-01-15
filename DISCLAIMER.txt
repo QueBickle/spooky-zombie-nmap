@@ -1,0 +1,48 @@
+DISCLAIMER
+
+This repository contains Nmap zombie scan aliases for educational and authorized security testing purposes only.
+
+1. Legal and Ethical Use:
+   - These tools are intended for legal and ethical use only.
+   - Always obtain explicit permission before scanning any networks or systems you do not own or have authority to test.
+   - Unauthorized scanning of networks or systems is illegal in many jurisdictions and can result in severe penalties.
+
+2. Educational Purpose:
+   - This repository is primarily for educational purposes to understand network security concepts and practices.
+   - It is not intended for malicious use or unauthorized access attempts.
+
+3. User Responsibility:
+   - Users of these aliases are solely responsible for their actions.
+   - The creator(s) of this repository are not responsible for any misuse or damage caused by these tools.
+
+4. Potential Risks:
+   - Improper use of these scanning techniques can:
+     a) Disrupt network operations
+     b) Trigger security alarms
+     c) Be misinterpreted as a genuine attack
+   - Use with caution and understand the potential consequences.
+
+5. Skill Level:
+   - These tools are intended for users with a solid understanding of network security and ethical hacking principles.
+   - If you're unsure about the implications of using these tools, seek guidance from a qualified professional.
+
+6. Compliance:
+   - Users must comply with all relevant local, state, and federal laws.
+   - Adherence to organizational policies and industry standards is crucial.
+
+7. No Warranty:
+   - These aliases are provided "as is" without any warranty of any kind, either expressed or implied.
+   - The functionality and safety of these tools are not guaranteed.
+
+8. Updates and Accuracy:
+   - Network security is an evolving field. These tools may become outdated or inaccurate over time.
+   - Users should stay informed about current best practices and legal requirements.
+
+9. Ethical Considerations:
+   - Always prioritize the privacy and security of others.
+   - Use these tools to improve security, not to exploit vulnerabilities.
+
+10. Reporting:
+    - If you discover vulnerabilities using these tools, report them responsibly to the appropriate parties.
+
+By using the aliases and information in this repository, you acknowledge that you have read, understood, and agree to abide by this disclaimer.
