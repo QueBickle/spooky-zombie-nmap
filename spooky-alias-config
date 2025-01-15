@@ -1,0 +1,59 @@
+# Basic Zombie Scan
+alias zbasic="sudo nmap -sI"
+
+# Zombie Scan with Verbose Output
+alias zverbose="sudo nmap -sI -v"
+
+# Zombie Scan with Packet Tracing
+alias ztrace="sudo nmap -sI --packet-trace"
+
+# Zombie Scan for Specific Ports
+alias zports="sudo nmap -sI -p"
+
+# Zombie Scan with OS Detection
+alias zos="sudo nmap -sI -O"
+
+# Zombie Scan with Service/Version Detection
+alias zversion="sudo nmap -sI -sV"
+
+# Zombie Scan with Script Scanning
+alias zscript="sudo nmap -sI -sC"
+
+# Zombie Scan with Timing Template (Slower)
+alias zslow="sudo nmap -sI -T2"
+
+# Zombie Scan with Timing Template (Faster)
+alias zfast="sudo nmap -sI -T4"
+
+# Zombie Scan with No Ping
+alias znoping="sudo nmap -sI -Pn"
+
+# Zombie Scan for UDP Ports
+alias zudp="sudo nmap -sI -sU"
+
+# Zombie Scan with Fragment IP Packets
+alias zfrag="sudo nmap -sI -f"
+
+# Zombie Scan with Custom Source Port
+alias zsource="sudo nmap -sI -g"
+
+# Zombie Scan with IPv6
+alias zipv6="sudo nmap -sI -6"
+
+# Zombie Scan with Specific Interface
+alias zinterface="sudo nmap -sI -e"
+
+# Zombie Scan with Random Target Order
+alias zrandom="sudo nmap -sI --randomize-hosts"
+
+# Zombie Scan with Specific Output Format (XML)
+alias zxml="sudo nmap -sI -oX"
+
+# Zombie Scan with Specific Output Format (Grepable)
+alias zgrep="sudo nmap -sI -oG"
+
+# Zombie Scan with Resume from Previous Scan
+alias zresume="sudo nmap -sI --resume"
+
+# Zombie Scan with Specific Timing Options
+alias ztiming="sudo nmap -sI --min-rate 100 --max-rate 500"
